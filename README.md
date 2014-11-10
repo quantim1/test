@@ -5,3 +5,5 @@ first repository (test)
 
 Version 0.1.1
 Edited the README.md file
+
+I love :coffee:, :pizza:
